@@ -18,6 +18,7 @@ body {
 	background-image: url("http://192.168.33.10/wordpress/wp-content/uploads/2018/05/new-facs-nz-logo-1.png");
 	background-repeat: no-repeat;
 	background-position: center;
+	overflow: hidden;
 }
 p {
 	font-family: "Roboto";
@@ -436,4 +437,30 @@ p {
   .right {
     left: 0%;
   }
+}
+
+.sold-product {
+	padding: 10px;
+}
+
+#button-2 {
+	background-color: #681993;
+   	color: white;
+   	font-size: 16px;
+	width: 206px;
+	border-radius: 20px 20px 20px 20px;
+	position: absolute;
+	top: 350px;
+	left: 500px;
+}
+
+.container-donate {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr;
+	padding: 10px 40px;
+    position: relative;
+    background-color: transparent;
+    width: 100%;
+    left: 40px;
 }

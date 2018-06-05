@@ -10,15 +10,23 @@
 	<?php wp_nav_menu(array('theme_location'=>'primary')); ?>
 <img class="logo-image" src="http://static1.squarespace.com/static/579e8c6bcd0f685ac1c66bcf/t/598fb5a9f5e23193415af725/1518312290733/?format=1500w">
 <hr>
+<div class="container-donate">
 
+<img class="sold-product" src="http://192.168.33.10/wordpress/wp-content/uploads/2018/06/USB.jpeg"></a>
 
+<img class="sold-product" src="http://192.168.33.10/wordpress/wp-content/uploads/2018/06/USB.jpeg"></a>
 
+<img class="sold-product" src="http://192.168.33.10/wordpress/wp-content/uploads/2018/06/USB.jpeg"></a>
 
+<img class="sold-product" src="http://192.168.33.10/wordpress/wp-content/uploads/2018/06/FACS-poster.jpeg"></a>
 
+<img class="sold-product" src="http://192.168.33.10/wordpress/wp-content/uploads/2018/06/FACS-poster.jpeg"></a>
 
+<img class="sold-product" src="http://192.168.33.10/wordpress/wp-content/uploads/2018/06/FACS-poster.jpeg"></a>
 
+<!-- <button id="button-2">Donate</button> -->
 
-
+</div>
 
 
 
